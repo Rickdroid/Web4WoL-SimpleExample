@@ -2,7 +2,7 @@
 
 This is a program for users who use web(such as browser, curl, and so on...) to trun on the computer.(BASE ON WOL)
 
-But this just a example, it's my lerning object for Golang, but it can work on the instance.
+But this just a example, it's my learning object for Golang, but it can work on the instance.
 
 ## Build
 So, you just only alter the `ip:port` ,`port` and `0xAA, 0xBB, 0xCC, 0xDD, 0xEE, 0xFF`(this is your net-card's MAC) which are your likes.
