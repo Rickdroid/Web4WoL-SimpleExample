@@ -11,7 +11,7 @@ Then use `go build` to build it. Of course you need to install golang enviroment
 
 Congratulation! You can use it now!
 
-##How to use
+## How to use
 Run your program, then use browser or others tool which can connect the website.
 
 Input your url into the tool.
